@@ -1,0 +1,77 @@
+[
+  {
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "pepper"],
+    "instructions": "Boil spaghetti. In a separate bowl, mix eggs and cheese. Fry pancetta. Combine all with pasta."
+  },
+  {
+    "recipe_name": "Chicken Tikka Masala",
+    "ingredients": ["chicken", "yogurt", "tomatoes", "onions", "spices"],
+    "instructions": "Marinate chicken in yogurt and spices. Cook onions and tomatoes. Add chicken and simmer."
+  },
+  {
+    "recipe_name": "Beef Stroganoff",
+    "ingredients": ["beef", "mushrooms", "onions", "sour cream", "butter"],
+    "instructions": "Cook beef and onions in butter. Add mushrooms and sour cream. Simmer until cooked."
+  },
+  {
+    "recipe_name": "Vegetable Stir Fry",
+    "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "ginger"],
+    "instructions": "Stir fry vegetables in oil. Add soy sauce and ginger. Cook until vegetables are tender."
+  },
+  {
+    "recipe_name": "Fish Tacos",
+    "ingredients": ["fish fillets", "tortillas", "cabbage", "lime", "sour cream"],
+    "instructions": "Grill fish fillets. Warm tortillas. Top with fish, cabbage, lime juice, and sour cream."
+  },
+  {
+    "recipe_name": "Margherita Pizza",
+    "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "basil"],
+    "instructions": "Spread tomato sauce on dough. Add mozzarella and basil. Bake until crust is golden."
+  },
+  {
+    "recipe_name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "sugar", "butter", "eggs", "chocolate chips"],
+    "instructions": "Mix all ingredients. Drop spoonfuls onto baking sheet. Bake until golden brown."
+  },
+  {
+    "recipe_name": "Caesar Salad",
+    "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing"],
+    "instructions": "Toss lettuce with croutons, cheese, and dressing."
+  },
+  {
+    "recipe_name": "Pancakes",
+    "ingredients": ["flour", "milk", "eggs", "baking powder", "syrup"],
+    "instructions": "Mix flour, milk, eggs, and baking powder. Cook on griddle. Serve with syrup."
+  },
+  {
+    "recipe_name": "Guacamole",
+    "ingredients": ["avocados", "lime", "onions", "tomatoes", "cilantro"],
+    "instructions": "Mash avocados. Mix with lime juice, onions, tomatoes, and cilantro."
+  },
+  {
+    "recipe_name": "Beef Tacos",
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "salsa"],
+    "instructions": "Cook beef. Fill taco shells with beef, lettuce, cheese, and salsa."
+  },
+  {
+    "recipe_name": "Mango Smoothie",
+    "ingredients": ["mango", "yogurt", "milk", "honey"],
+    "instructions": "Blend all ingredients until smooth."
+  },
+  {
+    "recipe_name": "Lasagna",
+    "ingredients": ["lasagna noodles", "ground beef", "tomato sauce", "ricotta cheese", "mozzarella cheese"],
+    "instructions": "Layer noodles, meat, sauce, and cheeses. Bake until bubbly."
+  },
+  {
+    "recipe_name": "Chicken Caesar Wrap",
+    "ingredients": ["chicken breast", "tortillas", "romaine lettuce", "parmesan cheese", "Caesar dressing"],
+    "instructions": "Grill chicken. Wrap in tortillas with lettuce, cheese, and dressing."
+  },
+  {
+    "recipe_name": "Tomato Soup",
+    "ingredients": ["tomatoes", "onions", "garlic", "basil", "cream"],
+    "instructions": "Cook tomatoes, onions, and garlic. Blend with basil and cream."
+  }
+]
