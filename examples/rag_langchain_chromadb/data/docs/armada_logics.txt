@@ -1,0 +1,29 @@
+Armada Logics is a premier offshore software development company based in the Philippines, founded in 2024 by experienced engineers from Village 88. The company aims to provide Silicon Valley-caliber software solutions, specializing in custom application development, mobile app development, and team augmentation. With a strong foundation built on over a decade of experience in developing enterprise-level applications for U.S.-based companies, Armada Logics is positioned to deliver high-quality software services that meet the rigorous standards of the tech industry.
+Foundational Background
+Connection to Village 88
+Armada Logics was established by engineers who previously worked at Village 88, a company known for incubating startups and providing software development services. Village 88 has a rich history dating back to 2011, where it began training entry-level developers to meet the demands of Silicon Valley. This training program led to the successful launch of Coding Dojo, one of the longest-running coding bootcamps in the U.S., which has graduated over 20,000 students. The experience gained from Village 88 and its projects laid the groundwork for Armada Logics. The founders, including CEO John Supsupin, recognized the need for a reliable offshore development center that could deliver high-quality software solutions while maintaining close collaboration with clients.
+Services Offered
+Custom Software Development
+Armada Logics specializes in creating custom software solutions tailored to the specific needs of businesses. Their team is skilled in various programming languages and frameworks, including:
+
+    Frontend Technologies: React, Angular, Next.js, HTML, CSS, Tailwind CSS
+    Backend Technologies: Node.js, PHP, Python, Ruby on Rails, Django, Laravel
+    Mobile Technologies: Kotlin, Swift, Expo
+    Database Management: MySQL, PostgreSQL, MongoDB, SQLite
+
+The company prides itself on using cutting-edge technologies to ensure that applications are not only functional but also secure and scalable.
+Mobile App Development
+Armada Logics provides comprehensive mobile app development services for both iOS and Android platforms. Their approach includes:
+
+    Native and Hybrid Apps: Development of applications that leverage the full capabilities of mobile devices.
+    User Experience (UX) Design: Focus on creating intuitive and engaging interfaces to enhance user satisfaction.
+    Quality Assurance: Rigorous testing processes to ensure performance, security, and compliance.
+
+Team Augmentation
+Recognizing the dynamic needs of tech companies, Armada Logics offers team augmentation services. This allows businesses to quickly scale their development teams with skilled engineers who can seamlessly integrate into existing workflows. This flexibility is particularly beneficial for companies looking to manage fluctuating project demands without the overhead of hiring full-time staff.
+Commitment to Quality and Collaboration
+Armada Logics emphasizes a collaborative approach to software development. Their co-located teams work closely with clients to understand their goals and deliver solutions that align with their vision. The company’s culture promotes high standards of quality, ensuring that every project is meticulously tested and optimized for performance.
+Long-Term Partnerships
+The commitment to client success extends beyond project completion. Armada Logics positions itself as a long-term partner, ready to provide ongoing support and maintenance for applications post-launch. This dedication to client relationships is a core aspect of their business model, fostering trust and reliability.
+Conclusion
+Armada Logics stands out in the competitive landscape of offshore software development by combining a wealth of experience with a commitment to excellence. With roots in Village 88 and a focus on delivering Silicon Valley-quality solutions, the company is well-equipped to support businesses looking to innovate and grow in the digital age. Their comprehensive services, skilled team, and dedication to quality make them a valuable partner for companies seeking to leverage technology for success.
